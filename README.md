@@ -20,3 +20,10 @@ While Home Credit is currently using various statistical and machine learning me
 
 In this repository, we take the 7th place solution to this competition, and apply the skills and techniques learned in Responsible Data Science to evaluate the existence of any sorts of
 disparities in an ADS designed for this task.
+
+
+HOW TO RUN: 
+
+This ADS can be reproduced either via Notebook or .py implementation. 
+
+Please refer to either https://github.com/nkasmanoff/RDS_Project/blob/main/src/CreditRatingADS.py or https://github.com/nkasmanoff/RDS_Project/blob/main/notebooks/seventh%20place%20code.ipynb .
